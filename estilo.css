@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #1F9440;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.botao{
+    width: 270px;
+    height: 62px;
+    border-radius: 50px;
+    background-color: #1F9440;
+    color: #FFFFFF;
+    font-size: 30px;
+    border: 0;
+}
+
+.pastor{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+
+
+}
