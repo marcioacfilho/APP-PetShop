@@ -21,10 +21,12 @@ body {
 .pet1{
     border-radius: 20px;
     margin-top: 18px;
+    border: 3px #ff0000 solid;
 }
 .pet2{
     border-radius: 20px;
     margin-top: 18px;
+    border: 3px #ff0000 solid;
 }
 h1{
     font-size: 20px;
